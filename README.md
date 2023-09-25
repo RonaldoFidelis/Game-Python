@@ -1,4 +1,4 @@
-<h1 align=center> TETRIS </h1>
+<h1 align=center> GAME EM PYTHON </h1>
 
 <br>
 
@@ -17,8 +17,8 @@
 
 ## 📝 Maiores aprendizados
 
-* Criação de jogos com a biblioteca pygame
-* Conceitos de logico com python
+* 
+* 
 
 ## Desenvolvido por Ronaldo Fidelis
 -  Contatos:
